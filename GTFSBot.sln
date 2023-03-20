@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GTFSBot", "GTFSBot\GTFSBot.csproj", "{3FF800D8-BD9E-413D-B4A5-D6D8D749442E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FF800D8-BD9E-413D-B4A5-D6D8D749442E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FF800D8-BD9E-413D-B4A5-D6D8D749442E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FF800D8-BD9E-413D-B4A5-D6D8D749442E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FF800D8-BD9E-413D-B4A5-D6D8D749442E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA0F6CDE-75E1-4ED1-8111-78FC619747EF}
+	EndGlobalSection
+EndGlobal
