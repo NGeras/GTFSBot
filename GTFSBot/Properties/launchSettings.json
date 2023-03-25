@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "GTFSBot": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "TOKEN": "TOKEN"
+      }
+    }
+  }
+}

@@ -12,7 +12,7 @@ namespace GTFSBot
 {
     internal class Program
     {
-        private static readonly TelegramBotClient BotClient = new("6164107023:AAE7Yht9QGT3CqIfwnG6IWF4-iZecsc0k7M");
+        private static readonly TelegramBotClient BotClient = new(Environment.GetEnvironmentVariable("TOKEN") ?? string.Empty);
         private static GTFSFeed _gtfs;
 
         static async Task Main(string[] args)
